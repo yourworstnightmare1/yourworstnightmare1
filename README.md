@@ -11,14 +11,8 @@ Hello! You may know me as the founder of ReBlock Projections. I also like to jus
 - [**↓** Download appUnblocker's source code from its GitHub repo](https://github.com/yourworstnightmare1/appunblocker)
 ---
 - **packageExpander (macOS)** - Install most apps from package (`.pkg`) files without administrator by extracting package payload contents
-- [**↓** Download the source code from its GitHub repo](https://github.com/yourworstnightmare1/packageexpander)
----
-- **Project Aurora (Windows)** - Open and use the Microsoft Store, even if it is blocked.
-- *No download or source code is currently available.* -- Project status: Just started (0%)
----
-- **Project Parse (Windows)** - A version of Command Prompt that allows you to execute most standard Windows commands.
-- *No download or source code is currently available.* -- Project status: Just started (0%)
-
+- [**↓** Download packageExpander's source code from its GitHub repo](https://github.com/yourworstnightmare1/packageexpander)
+  
 # Experience & account stats
 
 - 3yrs of batch scripting experience
