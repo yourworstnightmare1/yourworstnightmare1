@@ -2,7 +2,7 @@ Hello! You may know me as the founder of ReBlock Projections. I also like to jus
 
 # My projects
 
-- **ReBlock (Windows, macOS)** - Founded in My biggest project which is still in development. This is basically to combine every tool like appUnblocker and others and put them in one place.
+- **ReBlock (Windows, macOS)** - Created in 2021, this is my biggest project which is still in development. This is basically to combine every tool like appUnblocker and others and put them in one place.
 - [**↓** Download ReBlock](https://sites.google.com/view/reblock/install/versions)
 - [**⎋** View Windows repository, which is still a work in progress](https://github.com/yourworstnightmare1/ReBlock-for-Windows)
 - [**?** View system Requirements](https://sites.google.com/view/reblock/install/compatability)
@@ -10,8 +10,17 @@ Hello! You may know me as the founder of ReBlock Projections. I also like to jus
 - **appUnblocker (Windows, macOS)** - Allows you to open most Windows installers and executables without UAC prompt/open apps from undentified developers.
 - [**↓** Download appUnblocker's source code from its GitHub repo](https://github.com/yourworstnightmare1/appunblocker)
 ---
-- **packageExpander (macOS)** - Install most apps from package (`.pkg`) files without administrator by extracting package payload contents
+- **packageExpander (macOS)** - Install most apps from package (`.pkg`) files without administrator by extracting package payload contents.
 - [**↓** Download packageExpander's source code from its GitHub repo](https://github.com/yourworstnightmare1/packageexpander)
+---
+- **ExecutableS (Windows S/SE Mode)** Force execution of applications, services, allow settings modification, or even uninstall S/SE mode.
+- **Soon™**
+---
+- **terminalzero/terminalzerossh (macOS)** Uses a custom Shortcut to allow user to input commands into as if they were using Terminal. All languages supported.
+- [**↓** Download terminalzero](https://sites.google.com/view/reblock/install/rbaddons/terminalzero)
+---
+- **ReBrowse (Windows, macOS)** Custom, lightweight browser using Chromium with [Ultraviolet 3](https://github.com/titaniumnetwork-dev/Ultraviolet) integration.
+- **Soon™**
   
 # Experience & account stats
 
