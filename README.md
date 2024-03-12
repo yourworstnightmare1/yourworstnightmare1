@@ -13,19 +13,18 @@ Hello! You may know me as the founder of ReBlock Projections. I also like to jus
 - **packageExpander (macOS)** - Install most apps from package (`.pkg`) files without administrator by extracting package payload contents.
 - [**↓** Download packageExpander's source code from its GitHub repo](https://github.com/yourworstnightmare1/packageexpander)
 ---
-- **ExecutableS (Windows S/SE Mode)** Force execution of applications, services, allow settings modification, or even uninstall S/SE mode.
-- **Soon™**
----
 - **terminalzero/terminalzerossh (macOS)** Uses a custom Shortcut to allow user to input commands into as if they were using Terminal. All languages supported.
-- [**↓** Download terminalzero](https://sites.google.com/view/reblock/install/rbaddons/terminalzero)
+- [**↓** Download terminalzero](https://www.icloud.com/shortcuts/c57cc57b1a814e298369e6ee6607db6f)
+> [!NOTE]
+> terminalzero/terminalzerossh are no longer being updated as of 2024/3/11.
 ---
-- **ReBrowse (Windows, macOS)** Custom, lightweight browser using Chromium with [Ultraviolet 3](https://github.com/titaniumnetwork-dev/Ultraviolet) integration.
-- **Soon™**
+- **iReadyGL (Chrome, Firefox, Edge, Safari)** Allows you to play i-Ready reward games without using coins.
+- [**⎋** View GitHub repository](https://github.com/yourworstnightmare1/ireadygl)
   
 # Experience & account stats
 
 - 3yrs of batch scripting experience
-- 1yr of Shortcuts visual scripting experience
+- 1yr of Shortcuts visual scripting experience (retired)
 ---
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourworstnightmare1)](https://github.com/yourworstnightmare1/)
 - ![Metrics](https://metrics.lecoq.io/yourworstnightmare1?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FChicago)
