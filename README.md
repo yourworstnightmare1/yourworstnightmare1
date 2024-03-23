@@ -20,6 +20,11 @@ Hello! You may know me as the founder of ReBlock Projections. I also like to jus
 ---
 - **iReadyGL (Chrome, Firefox, Edge, Safari)** Allows you to play i-Ready reward games without using coins.
 - [**⎋** View GitHub repository](https://github.com/yourworstnightmare1/ireadygl)
+- [**⎋** Launch iReadyGL through ReBlock API](https://yourworstnightmare1.github.io/assets/irgl/v2/r1/irgl.html)
+---
+- **ReBlock API (Browser)** The backend for all ReBlock websites and applications.
+- [**⎋** View GitHub repository](https://github.com/yourworstnightmare1/yourworstnightmare1.github.io)
+- [**⎋** Visit ReBlock API](https://yourworstnightmare1.github.io)
   
 # Experience & account stats
 
