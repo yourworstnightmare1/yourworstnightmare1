@@ -3,15 +3,15 @@ Hello! You may know me as the founder of ReBlock Projections. I also like to jus
 # My projects
 
 - **ReBlock (Windows, macOS)** - Created in 2021, this is my biggest project which is still in development. This is basically to combine every tool like appUnblocker and others and put them in one place.
-- [**↓** Download ReBlock](https://sites.google.com/view/reblock/install/versions)
-- [**⎋** View Windows repository, which is still a work in progress](https://github.com/yourworstnightmare1/ReBlock-for-Windows)
-- [**?** View system Requirements](https://sites.google.com/view/reblock/install/compatability)
+- [**↓** Download ReBlock](https://github.com/yourworstnightmare1/ReBlock/releases)
+- [**⎋** View repository](https://github.com/yourworstnightmare1/ReBlock)
+- [**?** View system Requirements](https://github.com/yourworstnightmare1/ReBlock/blob/main/COMPATIBILITY.md)
 ---
 - **appUnblocker (Windows, macOS)** - Allows you to open most Windows installers and executables without UAC prompt (Windows) or open apps from undentified developers (macOS).
-- [**↓** Download appUnblocker's source code from its GitHub repo](https://github.com/yourworstnightmare1/appunblocker)
+- [**⎋** View repository](https://github.com/yourworstnightmare1/appunblocker)
 ---
 - **packageExpander (macOS)** - Install most apps from package (`.pkg`) files without administrator by extracting package payload contents.
-- [**↓** Download packageExpander's source code from its GitHub repo](https://github.com/yourworstnightmare1/packageexpander)
+- [**⎋** View repository](https://github.com/yourworstnightmare1/packageexpander)
 ---
 - **terminalzero/terminalzerossh (macOS)** Uses a custom Shortcut to allow user to input commands into as if they were using Terminal. All languages supported.
 - [**↓** Download terminalzero](https://www.icloud.com/shortcuts/c57cc57b1a814e298369e6ee6607db6f)
@@ -19,11 +19,12 @@ Hello! You may know me as the founder of ReBlock Projections. I also like to jus
 > terminalzero/terminalzerossh are no longer being updated as of 2024/3/11.
 ---
 - **iReadyGL (Chrome, Firefox, Edge, Safari)** Allows you to play i-Ready reward games without using coins.
-- [**⎋** View GitHub repository](https://github.com/yourworstnightmare1/ireadygl)
+- [**⎋** View repository](https://github.com/yourworstnightmare1/ireadygl)
 - [**⎋** Launch iReadyGL through ReBlock API](https://yourworstnightmare1.github.io/assets/irgl/v2/r1/irgl.html)
+- 
 ---
 - **ReBlock API (Browser)** The interface connecting all ReBlock apps and sites together.
-- [**⎋** View GitHub repository](https://github.com/yourworstnightmare1/yourworstnightmare1.github.io)
+- [**⎋** View repository](https://github.com/yourworstnightmare1/yourworstnightmare1.github.io)
 - [**⎋** Visit ReBlock API](https://yourworstnightmare1.github.io)
 ---
 - **ytUnlock (Browser)** Allows for you to watch YouTube unblocked.
