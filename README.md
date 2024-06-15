@@ -8,7 +8,7 @@ Hello! You may know me as the founder of ReBlock Projections. I also like to jus
 - [**?** View system Requirements](https://github.com/yourworstnightmare1/ReBlock/blob/main/COMPATIBILITY.md)
 ---
 - **appUnblocker (Windows, macOS)** - Allows you to open most Windows installers and executables without UAC prompt (Windows) or open apps from undentified developers (macOS).
-- [**⎋** New repo under construction! Link currently unavailable.
+- **⎋** New repo under construction! Link currently unavailable.
 ---
 - **packageExpander (macOS)** - Install most apps from package (`.pkg`) files without administrator by extracting package payload contents.
 - [**⎋** View repository](https://github.com/yourworstnightmare1/packageexpander)
