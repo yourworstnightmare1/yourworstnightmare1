@@ -1,20 +1,19 @@
 i code stuff that has very bad code
 
 # My projects
-## ReBlock
 
-- **ReBlock (Windows, macOS)** - Created in 2021, this is my biggest project which is still in development. This is basically to combine every tool under ReBlock and and put them in one place.
+- **ReBlock (Windows, macOS)** - Created in 2022, this is my biggest project which is still in development. This is basically to combine every tool under ReBlock and and put them in one place.
 - [**↓** Download ReBlock](https://github.com/yourworstnightmare1/ReBlock/releases)
 - [**⎋** View repository](https://github.com/yourworstnightmare1/ReBlock)
 - [**?** View system Requirements](https://github.com/yourworstnightmare1/ReBlock/blob/main/COMPATIBILITY.md)
 ---
 - **appUnblocker (Windows, macOS)** - Allows you to open most Windows installers and executables without UAC prompt (Windows) or open apps from undentified developers (macOS).
-- **⎋** New repo under construction! Link currently unavailable.
+- **⎋** [View Repository](https://github.com/yourworstnightmare1/appunblocker)
 ---
 - **packageExpander (macOS)** - Install most apps from package (`.pkg`) files without administrator by extracting package payload contents.
 - [**⎋** View repository](https://github.com/yourworstnightmare1/packageexpander)
 ---
-- **terminalzero/terminalzerossh (macOS)** Uses a custom Shortcut to allow user to input commands into as if they were using Terminal. All languages supported.
+- **terminalzero/terminalzerossh (macOS)** Uses a custom Shortcut to allow user to input commands into as if they were using Terminal. All native macOS shells supported.
 - [**↓** Download terminalzero](https://www.icloud.com/shortcuts/c57cc57b1a814e298369e6ee6607db6f)
 > [!NOTE]
 > terminalzero/terminalzerossh are no longer being updated as of 2024/3/11.
@@ -40,4 +39,5 @@ i code stuff that has very bad code
 
 # Links
 [Official Website](https://sites.google.com/view/reblock)
+/
 [ReBlock GitHub](https://github.com/yourworstnightmare1/ReBlock)
