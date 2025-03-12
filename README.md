@@ -10,7 +10,7 @@ i code stuff that has very bad code
 - **appUnblocker (Windows, macOS)** - Allows you to open most Windows installers and executables without UAC prompt (Windows) or open apps from undentified developers (macOS).
 - [**⎋** View Repository](https://github.com/yourworstnightmare1/appunblocker)
 ---
-- **packageExpander (macOS)** - Install most apps from package (`.pkg`) files without administrator by extracting package payload contents.
+- **packageExpander (macOS)** - Install most apps from package (`.pkg`) files without administrator by extracting package payload contents by using `tar` and `pkgutil`.
 - [**⎋** View repository](https://github.com/yourworstnightmare1/packageexpander)
 ---
 - **terminalzero/terminalzerossh (macOS)** Uses a custom Shortcut to allow user to input commands into as if they were using Terminal. All native macOS shells supported.
@@ -28,14 +28,12 @@ i code stuff that has very bad code
 - [**⎋** Visit ReBlock API](https://yourworstnightmare1.github.io)
 ---
   
-# Experience & account stats
-
+# Experience
 - 4yrs of batch scripting experience
-- 1yr of Shortcuts visual scripting experience (retired)
+- 1yr of Shortcuts experience (retired)
 - 1yr of PowerShell experience
 - 6mo of HTML experience
 ---
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourworstnightmare1)](https://github.com/yourworstnightmare1/)
 
 # Links
 [Official Website](https://sites.google.com/view/reblock)
