@@ -4,15 +4,18 @@ i code stuff that has very bad code
 # My projects
 
 - **ReBlock (Windows, macOS)** - Created in 2022, this is my biggest project which is still in development. This is basically to combine every tool under ReBlock and and put them in one place.
-- [**↓** Download ReBlock](https://github.com/yourworstnightmare1/ReBlock/releases)
+- [**↓** Download](https://github.com/yourworstnightmare1/ReBlock/releases)
 - [**⎋** View repository](https://github.com/yourworstnightmare1/ReBlock)
-- [**?** View system Requirements](https://github.com/yourworstnightmare1/ReBlock/blob/main/COMPATIBILITY.md)
 ---
 - **appUnblocker (Windows, macOS)** - Allows you to open most Windows installers and executables without UAC prompt (Windows) or open apps from undentified developers (macOS).
 - [**⎋** View Repository](https://github.com/yourworstnightmare1/appunblocker)
 ---
 - **packageExpander (macOS)** - Install most apps from package (`.pkg`) files without administrator by extracting package payload contents by using `tar` and `pkgutil`.
 - [**⎋** View repository](https://github.com/yourworstnightmare1/packageexpander)
+---
+- **packageSpoofer (macOS)** - Changes the bundle ID of apps to bypass app blocking tools.
+- - - [**↓** Download](https://github.com/yourworstnightmare1/packageSpoofer/releases)
+- [**⎋** View repository](https://github.com/yourworstnightmare1/packageSpoofer)
 ---
 - **terminalzero/terminalzerossh (macOS)** Uses a custom Shortcut to allow user to input commands into as if they were using Terminal. All native macOS shells supported.
 - [**↓** Download terminalzero](https://www.icloud.com/shortcuts/c57cc57b1a814e298369e6ee6607db6f)
