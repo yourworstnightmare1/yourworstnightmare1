@@ -14,7 +14,7 @@ i code stuff that has very bad code
 - [**⎋** View repository](https://github.com/yourworstnightmare1/packageexpander)
 ---
 - **packageSpoofer (macOS)** - Changes the bundle ID of apps to bypass app blocking tools.
-- - - [**↓** Download](https://github.com/yourworstnightmare1/packageSpoofer/releases)
+- [**↓** Download](https://github.com/yourworstnightmare1/packageSpoofer/releases)
 - [**⎋** View repository](https://github.com/yourworstnightmare1/packageSpoofer)
 ---
 - **terminalzero/terminalzerossh (macOS)** Uses a custom Shortcut to allow user to input commands into as if they were using Terminal. All native macOS shells supported.
