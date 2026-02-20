@@ -26,6 +26,8 @@ i code stuff that has very bad code
 - [**⎋** View repository](https://github.com/yourworstnightmare1/ireadygl)
 - [**⎋** Launch iReadyGL through ReBlock API](https://yourworstnightmare1.github.io/assets/irgl/v2/r1/irgl.html)
 - 
+- **Proxy List** Large list of the best proxy links.
+- [**⎋** View repository](https://github.com/yourworstnightmare1/proxy-list)
 ---
 - **ReBlock API (Browser)** The interface connecting all ReBlock apps and sites together.
 - [**⎋** View repository](https://github.com/yourworstnightmare1/yourworstnightmare1.github.io)
