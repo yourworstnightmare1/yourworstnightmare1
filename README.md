@@ -1,6 +1,6 @@
-(currently taking a break and making small commits, but i'll be back soon <3)
-<br>
 i code stuff that has very bad code
+<br>
+<img src="https://komarev.com/ghpvc/?username=yoi&color=brightgreen" alt="watching_count" />
 
 # My projects
 
@@ -37,11 +37,8 @@ i code stuff that has very bad code
 - [**⎋** Visit ReBlock API](https://yourworstnightmare1.github.io)
 ---
   
-# Experience
-- 4yrs of batch scripting experience
-- 1yr of Shortcuts experience (retired)
-- 1yr of PowerShell experience
-- 6mo of HTML experience
+# Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourworstnightmare1&theme=tokyonight" alt="mystreak"/>
 ---
 
 # Links
