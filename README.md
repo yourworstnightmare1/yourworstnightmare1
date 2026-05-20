@@ -5,7 +5,7 @@ i code stuff that has very bad code
 # My projects
 
 - **ReBlock (Windows, macOS)** - Created in 2022, this is my biggest project which is still in development. This is basically to combine every tool under ReBlock and and put them in one place.
-- [**↓** Download](https://github.com/yourworstnightmare1/ReBlock/releases)
+- [**↓** Download](https://github.com/yourworstnightmare1/ReBlock/releases/latest)
 - [**⎋** View repository](https://github.com/yourworstnightmare1/ReBlock)
 ---
 - **appUnblocker (Windows, macOS)** - Allows you to open most Windows installers and executables without UAC prompt (Windows) or open apps from undentified developers (macOS).
@@ -15,7 +15,7 @@ i code stuff that has very bad code
 - [**⎋** View repository](https://github.com/yourworstnightmare1/packageexpander)
 ---
 - **packageSpoofer (macOS)** - Changes the bundle ID of apps to bypass app blocking tools.
-- [**↓** Download](https://github.com/yourworstnightmare1/packageSpoofer/releases)
+- [**↓** Download](https://github.com/yourworstnightmare1/packageSpoofer/releases/latest)
 - [**⎋** View repository](https://github.com/yourworstnightmare1/packageSpoofer)
 ---
 - **terminalzero/terminalzerossh (macOS)** Uses a custom Shortcut to allow user to input commands into as if they were using Terminal. All native macOS shells supported.
@@ -30,6 +30,7 @@ i code stuff that has very bad code
 > iReadyGL is no longer being updated as of 2026/2/27.
 ---
 - **Proxy List** Large list of the best proxy links.
+- [**⎋** Visit the list](https://yourworstnightmare1.github.io/proxy-list)
 - [**⎋** View repository](https://github.com/yourworstnightmare1/proxy-list)
 ---
 - **ReBlock API (Browser)** The interface connecting all ReBlock apps and sites together.
