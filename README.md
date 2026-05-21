@@ -24,13 +24,13 @@ i code stuff that has very bad code
 > [!NOTE]
 > terminalzero/terminalzerossh are no longer being updated as of 2024/3/11.
 ---
-- **iReadyGL (Chrome, Firefox, Edge, Safari)** Allows you to play i-Ready reward games without using coins.
+- **iReadyGL (Browser)** Allows you to play i-Ready reward games without using coins.
 - [**⎋** View repository](https://github.com/yourworstnightmare1/ireadygl)
 - [**⎋** Launch iReadyGL through ReBlock API](https://yourworstnightmare1.github.io/assets/irgl/v2/r1/irgl.html)
 > [!NOTE]
 > iReadyGL is no longer being updated as of 2026/2/27.
 ---
-- **Proxy List** Large list of the best proxy links.
+- **Proxy List (Browser)** Large list of the best proxy links.
 - [**⎋** Visit the list](https://yourworstnightmare1.github.io/proxy-list)
 - [**⎋** View repository](https://github.com/yourworstnightmare1/proxy-list)
 ---
