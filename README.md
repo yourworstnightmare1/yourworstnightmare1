@@ -9,6 +9,7 @@ i code stuff that has very bad code
 - [**⎋** View repository](https://github.com/yourworstnightmare1/ReBlock)
 ---
 - **appUnblocker (Windows, macOS)** - Allows you to open most Windows installers and executables without UAC prompt (Windows) or open apps from undentified developers (macOS).
+- - [**↓** Download](https://github.com/yourworstnightmare1/appUnblocker/releases/latest)
 - [**⎋** View Repository](https://github.com/yourworstnightmare1/appunblocker)
 ---
 - **packageExpander (macOS)** - Install most apps from package (`.pkg`) files without administrator by extracting package payload contents by using `tar` and `pkgutil`.
