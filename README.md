@@ -13,6 +13,7 @@ i code stuff that has very bad code
 - [**⎋** View Repository](https://github.com/yourworstnightmare1/appunblocker)
 ---
 - **packageExpander (macOS)** - Install most apps from package (`.pkg`) files without administrator by extracting package payload contents by using `tar` and `pkgutil`.
+- [**↓** Download](https://github.com/yourworstnightmare1/packageExpander/releases/latest)
 - [**⎋** View repository](https://github.com/yourworstnightmare1/packageexpander)
 ---
 - **packageSpoofer (macOS)** - Changes the bundle ID of apps and resigns them to bypass app blocking tools.
