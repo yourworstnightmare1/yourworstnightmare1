@@ -7,6 +7,13 @@ i code stuff that has very bad code
 - **ReBlock (Windows, macOS)** - Created in 2022, this is my biggest project which is still in development. This is basically to combine every tool under ReBlock and and put them in one place.
 - [**↓** Download](https://github.com/yourworstnightmare1/ReBlock/releases/latest)
 - [**⎋** View repository](https://github.com/yourworstnightmare1/ReBlock)
+> [!NOTE]
+> ReBlock is currently under development and does not have any recent stable builds (v1.0w is very outdated). July/August 2026 release is expected. You can always still manually download the plugins.
+---
+- **Bavarium Browser (Windows, macOS)** - A Chromium-based browser designed to bypass internet censorship and restrictions.
+- [**⎋** View repository](https://github.com/yourworstnightmare1/bavarium-browser)
+> [!NOTE]
+> Bavarium is currently under development and does not have any stable builds currently. July/August 2026 release is expected.
 ---
 - **appUnblocker (Windows, macOS)** - Allows you to open most Windows installers and executables without UAC prompt (Windows) or open apps from undentified developers (macOS).
 - [**↓** Download](https://github.com/yourworstnightmare1/appUnblocker/releases/latest)
