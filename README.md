@@ -9,13 +9,13 @@ i code stuff that has very bad code
 - [**⎋** View repository](https://github.com/yourworstnightmare1/ReBlock)
 ---
 - **appUnblocker (Windows, macOS)** - Allows you to open most Windows installers and executables without UAC prompt (Windows) or open apps from undentified developers (macOS).
-- - [**↓** Download](https://github.com/yourworstnightmare1/appUnblocker/releases/latest)
+- [**↓** Download](https://github.com/yourworstnightmare1/appUnblocker/releases/latest)
 - [**⎋** View Repository](https://github.com/yourworstnightmare1/appunblocker)
 ---
 - **packageExpander (macOS)** - Install most apps from package (`.pkg`) files without administrator by extracting package payload contents by using `tar` and `pkgutil`.
 - [**⎋** View repository](https://github.com/yourworstnightmare1/packageexpander)
 ---
-- **packageSpoofer (macOS)** - Changes the bundle ID of apps to bypass app blocking tools.
+- **packageSpoofer (macOS)** - Changes the bundle ID of apps and resigns them to bypass app blocking tools.
 - [**↓** Download](https://github.com/yourworstnightmare1/packageSpoofer/releases/latest)
 - [**⎋** View repository](https://github.com/yourworstnightmare1/packageSpoofer)
 ---
