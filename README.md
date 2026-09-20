@@ -8,12 +8,12 @@ i code stuff that has very bad code
 - [**↓** Download](https://github.com/yourworstnightmare1/ReBlock/releases/latest)
 - [**⎋** View repository](https://github.com/yourworstnightmare1/ReBlock)
 > [!NOTE]
-> ReBlock is currently under development and does not have any recent stable builds (v1.0w is very outdated). July/August 2026 release is expected. You can always still manually download the plugins.
+> ReBlock is currently under development and does not have any recent stable builds (v1.0w is very outdated).
 ---
 - **Bavarium Browser (Windows, macOS)** - A Chromium-based browser designed to bypass internet censorship and restrictions.
 - [**⎋** View repository](https://github.com/yourworstnightmare1/bavarium-browser)
 > [!NOTE]
-> Bavarium is currently under development and does not have any stable builds currently. July/August 2026 release is expected.
+> Bavarium is currently under development and does not have any stable builds currently.
 ---
 - **appUnblocker (Windows, macOS)** - Allows you to open most Windows installers and executables without UAC prompt (Windows) or open apps from undentified developers (macOS).
 - [**↓** Download](https://github.com/yourworstnightmare1/appUnblocker/releases/latest)
@@ -42,7 +42,11 @@ i code stuff that has very bad code
 - [**⎋** Visit the list](https://yourworstnightmare1.github.io/proxy-list)
 - [**⎋** View repository](https://github.com/yourworstnightmare1/proxy-list)
 ---
-- **ReBlock API (Browser)** The interface connecting all ReBlock apps and sites together.
+- **Proxy Development Toolkit (Windows, macOS)** Test, develop, and optimize your websites around web proxies in a custom browser environment.
+- [**⎋** Download](https://github.com/yourworstnightmare1/proxy-development-toolkit/releases/latest)
+- [**⎋** View repository](https://github.com/yourworstnightmare1/proxy-development-toolkit) 
+
+- **ReBlock API (Browser)** The web interface connecting all ReBlock apps and sites together.
 - [**⎋** View repository](https://github.com/yourworstnightmare1/yourworstnightmare1.github.io)
 - [**⎋** Visit ReBlock API](https://yourworstnightmare1.github.io)
 ---
