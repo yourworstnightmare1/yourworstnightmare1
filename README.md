@@ -50,6 +50,8 @@ i code stuff that has very bad code
 - [**⎋** View repository](https://github.com/yourworstnightmare1/yourworstnightmare1.github.io)
 - [**⎋** Visit ReBlock API](https://yourworstnightmare1.github.io)
 ---
+- **mi-led-gui (Windows, macOS, Linux)** An updated GUI version of offe's [mi-led-display](https://github.com/offe/mi-led-display) project that allows full control of the Merkury Innovations Multicolor Matrix LED Display.
+- [**⎋** View repository](https://github.com/yourworstnightmare1/mi-led-gui)
   
 # Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourworstnightmare1&theme=tokyonight" alt="mystreak"/>
